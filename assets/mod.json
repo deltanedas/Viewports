@@ -3,7 +3,7 @@
 	"displayName": "[#b8341f]Viewports",
 	"author": "DeltaNedas",
 	"description": "Allows the map to be rendered multiple times at once, or not at all.",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"main": "viewports.Viewports",
 	"minGameVersion": 131
 }
